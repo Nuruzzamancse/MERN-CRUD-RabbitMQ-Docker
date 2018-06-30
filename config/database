@@ -1,0 +1,4 @@
+module.exports = {
+    'secret': 'nuruzzaman',
+    'tokenexp': 36000
+}
